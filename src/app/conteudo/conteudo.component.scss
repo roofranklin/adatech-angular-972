@@ -1,0 +1,13 @@
+.example-card {
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+:host{    
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
